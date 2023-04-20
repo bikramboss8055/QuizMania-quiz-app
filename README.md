@@ -1,4 +1,4 @@
-# vital-hose-4725
+# QuizMania-quiz-app
 
 This is a collaborative Project developed in 48 hours. We are a team of 4 members:
 
